@@ -1,6 +1,6 @@
 # Simple Xylophone using Flutter 🎹
 
-<img align="right" src="xylophone_screen.png" alt="app screenshot">
+<img align="right" src="xylophone_screen.png" width="300px" alt="app screenshot">
 
 ## About
 
